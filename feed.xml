@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:snf="http://www.smartnews.be/snf">
   <channel>
     <title>The Daily Pulse</title>
     <link>https://eugenemcmillian24-debug.github.io/the-daily-pulse</link>
-    <description>Fresh takes on tech, lifestyle, food, local news and more. Stories that matter, delivered daily.</description>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 24 Apr 2026 00:00:00 GMT</lastBuildDate>
+    <description>News, tech, lifestyle and more</description>
+    <language>en</language>
+    <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
+    <lastBuildDate>Fri, 24 Apr 2026 12:00:00 GMT</lastBuildDate>
+    <copyright>© 2026 The Daily Pulse</copyright>
+    <ttl>60</ttl>
     <atom:link href="https://eugenemcmillian24-debug.github.io/the-daily-pulse/feed.xml" rel="self" type="application/rss+xml"/>
+    <snf:logo>
+      <url>https://eugenemcmillian24-debug.github.io/the-daily-pulse/logo-smartnews.png</url>
+    </snf:logo>
+    <snf:darkModeLogo>
+      <url>https://eugenemcmillian24-debug.github.io/the-daily-pulse/logo-smartnews-dark.png</url>
+    </snf:darkModeLogo>
 
     <item>
       <title>Why Everyone's Talking About Sleep Syncing in 2026</title>
@@ -14,8 +28,11 @@
       <guid isPermaLink="true">https://eugenemcmillian24-debug.github.io/the-daily-pulse/posts/sleep-syncing-trend.html</guid>
       <pubDate>Fri, 24 Apr 2026 12:00:00 GMT</pubDate>
       <category>Lifestyle</category>
+      <dc:creator>The Daily Pulse</dc:creator>
       <description>The latest wellness trend isn't about how long you sleep — it's about syncing your sleep schedule with your body's natural biological rhythms. And the science is surprisingly solid.</description>
+      <media:thumbnail url="https://eugenemcmillian24-debug.github.io/the-daily-pulse/thumb-sleep-syncing.png" />
       <content:encoded><![CDATA[
+        <img src="https://eugenemcmillian24-debug.github.io/the-daily-pulse/thumb-sleep-syncing.png" alt="Sleep Syncing" />
         <p>Move over, sleep hygiene. The latest wellness trend isn't about how long you sleep — it's about syncing your sleep schedule with your body's natural biological rhythms.</p>
         <p>A landmark 2025 study from the University of Oxford found that people who slept in alignment with their chronotype reported 31% better sleep quality and 22% improved daytime alertness — even when sleeping the same total hours as the control group. The key wasn't duration. It was timing.</p>
         <p>Track when you naturally fall asleep and wake up during a week with no alarms to find your chronotype. Wearables like the Oura Ring and WHOOP now include chronotype detection features. Some companies are even experimenting with "chronotype-flexible" schedules.</p>
@@ -28,8 +45,11 @@
       <guid isPermaLink="true">https://eugenemcmillian24-debug.github.io/the-daily-pulse/posts/micro-evs-taking-over.html</guid>
       <pubDate>Fri, 24 Apr 2026 11:00:00 GMT</pubDate>
       <category>Tech</category>
+      <dc:creator>The Daily Pulse</dc:creator>
       <description>Forget the Cybertruck. The real EV revolution in 2026 is happening at the opposite end of the spectrum — with vehicles small enough to park in a closet.</description>
+      <media:thumbnail url="https://eugenemcmillian24-debug.github.io/the-daily-pulse/thumb-micro-evs.png" />
       <content:encoded><![CDATA[
+        <img src="https://eugenemcmillian24-debug.github.io/the-daily-pulse/thumb-micro-evs.png" alt="Micro-EVs" />
         <p>Micro-EVs are ultra-compact electric vehicles designed for short urban trips. Global sales hit 4.2 million units in 2025, up 67% year over year.</p>
         <p>Three converging forces explain the boom: urban parking is increasingly impossible, gas prices remain volatile, and insurance on micro-EVs costs a fraction of standard vehicles. Many qualify as low-speed vehicles — no special license needed in many states.</p>
         <p>They charge from a standard wall outlet in 4-8 hours. Retirees, college students, and delivery services are all adopting them. The micro-EV isn't trying to replace your road trip car — it's trying to replace every unnecessary trip in a 4,000-pound SUV.</p>
@@ -42,8 +62,11 @@
       <guid isPermaLink="true">https://eugenemcmillian24-debug.github.io/the-daily-pulse/posts/fermented-foods-2026.html</guid>
       <pubDate>Fri, 24 Apr 2026 10:00:00 GMT</pubDate>
       <category>Food</category>
+      <dc:creator>The Daily Pulse</dc:creator>
       <description>If your fermented food repertoire stops at yogurt and kimchi, you're missing out on some seriously delicious options hitting mainstream shelves this year.</description>
+      <media:thumbnail url="https://eugenemcmillian24-debug.github.io/the-daily-pulse/thumb-fermented-foods.png" />
       <content:encoded><![CDATA[
+        <img src="https://eugenemcmillian24-debug.github.io/the-daily-pulse/thumb-fermented-foods.png" alt="Fermented Foods" />
         <p>The gut health revolution isn't slowing down. From tepache (Mexican fermented pineapple drink) to shio koji (Japanese flavor cheat code) to curtido (El Salvador's answer to sauerkraut), there are incredible fermented foods going mainstream in 2026.</p>
         <p>Also trending: water kefir as a dairy-free probiotic soda, dosa batter as one of the most nutritious fermented foods on earth, miso used beyond soup, and injera starter as a gluten-free bread alternative. Fermented foods aren't just good for your gut — they make everything taste better.</p>
       ]]></content:encoded>
@@ -55,8 +78,11 @@
       <guid isPermaLink="true">https://eugenemcmillian24-debug.github.io/the-daily-pulse/posts/libraries-reinventing-2026.html</guid>
       <pubDate>Fri, 24 Apr 2026 09:00:00 GMT</pubDate>
       <category>Local</category>
+      <dc:creator>The Daily Pulse</dc:creator>
       <description>If you haven't visited your public library recently, you might not recognize it. Libraries are quietly transforming into the most valuable free resource in any neighborhood.</description>
+      <media:thumbnail url="https://eugenemcmillian24-debug.github.io/the-daily-pulse/thumb-libraries-2026.png" />
       <content:encoded><![CDATA[
+        <img src="https://eugenemcmillian24-debug.github.io/the-daily-pulse/thumb-libraries-2026.png" alt="Libraries 2026" />
         <p>Over 200 public libraries now offer tool lending programs — power drills, sewing machines, 3D printers, even GoPro cameras. Many lend Wi-Fi hotspots, offer free access to LinkedIn Learning and Coursera, and host tech help sessions for seniors.</p>
         <p>Libraries are partnering with social service agencies for tax prep, immigration clinics, job fairs, and mental health drop-ins. The seed library movement has exploded with over 500 libraries maintaining seed collections. Public libraries remain one of the few truly democratic spaces in American life.</p>
       ]]></content:encoded>
@@ -68,8 +94,11 @@
       <guid isPermaLink="true">https://eugenemcmillian24-debug.github.io/the-daily-pulse/posts/side-hustles-2026.html</guid>
       <pubDate>Thu, 23 Apr 2026 12:00:00 GMT</pubDate>
       <category>Lifestyle</category>
+      <dc:creator>The Daily Pulse</dc:creator>
       <description>The internet is full of side hustle advice that sounds great in a YouTube thumbnail and terrible in practice. Here are six that real people are actually making money from in 2026.</description>
+      <media:thumbnail url="https://eugenemcmillian24-debug.github.io/the-daily-pulse/thumb-side-hustles.png" />
       <content:encoded><![CDATA[
+        <img src="https://eugenemcmillian24-debug.github.io/the-daily-pulse/thumb-side-hustles.png" alt="Side Hustles" />
         <p>Six side hustles that actually work in 2026: AI prompt engineering for local businesses ($500-2,000 per setup), notary loan signing ($3,000-5,000/month part-time), rental arbitrage via Furnished Finder, UGC content creation ($150-500 per video), estate sale flipping, and virtual bookkeeping ($300-800/month per client).</p>
         <p>The pattern? The best 2026 side hustles solve real problems for real people. No algorithms to game, no inventory to warehouse, no guru to follow.</p>
       ]]></content:encoded>
@@ -81,8 +110,11 @@
       <guid isPermaLink="true">https://eugenemcmillian24-debug.github.io/the-daily-pulse/posts/tap-water-quality-check.html</guid>
       <pubDate>Thu, 23 Apr 2026 06:00:00 GMT</pubDate>
       <category>Local</category>
+      <dc:creator>The Daily Pulse</dc:creator>
       <description>Most Americans drink tap water without a second thought. But after high-profile contamination events, more people are asking: what's actually in my water?</description>
+      <media:thumbnail url="https://eugenemcmillian24-debug.github.io/the-daily-pulse/thumb-tap-water.png" />
       <content:encoded><![CDATA[
+        <img src="https://eugenemcmillian24-debug.github.io/the-daily-pulse/thumb-tap-water.png" alt="Tap Water Quality" />
         <p>Every public water system must publish an annual Consumer Confidence Report listing every detected contaminant. The biggest story in 2026 is PFAS — "forever chemicals" — with the EPA finalizing enforceable limits in 2024.</p>
         <p>For independent testing, county health departments often offer free or low-cost options. Home kits from Tap Score cost $30-200. For filtration, standard Brita handles chlorine but not PFAS — look for NSF P473 certified filters. Knowledge is the first step.</p>
       ]]></content:encoded>
@@ -94,8 +126,11 @@
       <guid isPermaLink="true">https://eugenemcmillian24-debug.github.io/the-daily-pulse/posts/ai-changing-everyday-life.html</guid>
       <pubDate>Thu, 23 Apr 2026 00:00:00 GMT</pubDate>
       <category>Tech</category>
+      <dc:creator>The Daily Pulse</dc:creator>
       <description>From smart grocery lists to AI-powered local traffic predictions, artificial intelligence has woven itself into the fabric of daily routines — often without us even noticing.</description>
+      <media:thumbnail url="https://eugenemcmillian24-debug.github.io/the-daily-pulse/thumb-ai-everyday.png" />
       <content:encoded><![CDATA[
+        <img src="https://eugenemcmillian24-debug.github.io/the-daily-pulse/thumb-ai-everyday.png" alt="AI in Everyday Life" />
         <p>From smart grocery lists to AI-powered local traffic predictions, artificial intelligence has woven itself into the fabric of daily routines — often without us even noticing.</p>
         <p>In 2026, AI isn't just a buzzword reserved for Silicon Valley press releases. It's the invisible hand nudging your morning commute, suggesting what to cook based on what's about to expire in your fridge, and even helping local governments predict where potholes will form next.</p>
         <h3>The Kitchen Gets Smarter</h3>
@@ -114,8 +149,11 @@
       <guid isPermaLink="true">https://eugenemcmillian24-debug.github.io/the-daily-pulse/posts/morning-routines-that-work.html</guid>
       <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
       <category>Lifestyle</category>
+      <dc:creator>The Daily Pulse</dc:creator>
       <description>Forget the 4 AM wake-up cult. Research shows that the best morning routine is the one you'll actually stick with. Here are five approaches that real people swear by.</description>
+      <media:thumbnail url="https://eugenemcmillian24-debug.github.io/the-daily-pulse/thumb-morning-routines.png" />
       <content:encoded><![CDATA[
+        <img src="https://eugenemcmillian24-debug.github.io/the-daily-pulse/thumb-morning-routines.png" alt="Morning Routines" />
         <p>Forget the 4 AM wake-up cult. Research shows that the best morning routine is the one you'll actually stick with. Here are five approaches that real people swear by.</p>
         <h3>1. The 20-Minute Move</h3>
         <p>A 2025 study in the Journal of Behavioral Medicine found that just 20 minutes of movement within the first hour of waking improved focus and mood for up to 6 hours. It doesn't have to be a HIIT workout — a brisk walk counts.</p>
@@ -137,8 +175,11 @@
       <guid isPermaLink="true">https://eugenemcmillian24-debug.github.io/the-daily-pulse/posts/street-food-trends-2026.html</guid>
       <pubDate>Tue, 21 Apr 2026 00:00:00 GMT</pubDate>
       <category>Food</category>
+      <dc:creator>The Daily Pulse</dc:creator>
       <description>From Korean corn dogs going mainstream to the rise of birria everything, the street food scene in 2026 is bolder and more creative than ever.</description>
+      <media:thumbnail url="https://eugenemcmillian24-debug.github.io/the-daily-pulse/thumb-street-food.png" />
       <content:encoded><![CDATA[
+        <img src="https://eugenemcmillian24-debug.github.io/the-daily-pulse/thumb-street-food.png" alt="Street Food 2026" />
         <p>From Korean corn dogs going mainstream to the rise of birria everything, the street food scene in 2026 is bolder and more creative than ever.</p>
         <h3>Korean Corn Dogs Go Nationwide</h3>
         <p>What started in LA's Koreatown has exploded coast to coast. Korean corn dogs — those crispy, cheese-stuffed sticks of joy — are now a staple at food trucks from Miami to Portland. The secret? Endless customization: mozzarella, rice flour batter, ramen noodle coating, hot Cheeto dust. Pick your adventure.</p>
@@ -158,8 +199,11 @@
       <guid isPermaLink="true">https://eugenemcmillian24-debug.github.io/the-daily-pulse/posts/community-gardens-revival.html</guid>
       <pubDate>Mon, 20 Apr 2026 00:00:00 GMT</pubDate>
       <category>Local</category>
+      <dc:creator>The Daily Pulse</dc:creator>
       <description>Across the country, vacant lots are transforming into thriving community gardens. It's more than just growing vegetables — it's about growing connections.</description>
+      <media:thumbnail url="https://eugenemcmillian24-debug.github.io/the-daily-pulse/thumb-community-gardens.png" />
       <content:encoded><![CDATA[
+        <img src="https://eugenemcmillian24-debug.github.io/the-daily-pulse/thumb-community-gardens.png" alt="Community Gardens" />
         <p>Across the country, vacant lots are transforming into thriving community gardens. It's more than just growing vegetables — it's about growing connections.</p>
         <h3>The Numbers Tell the Story</h3>
         <p>The American Community Gardening Association reports a 40% increase in registered community gardens since 2022. The pandemic planted the seed (pun intended), but the movement has grown far beyond lockdown hobby gardening.</p>
